@@ -17,7 +17,6 @@
 
 ## Graph
 
-![Uploading ex 2222.jpeg…]()
 
 Practical frequency of Oscillation =
 
