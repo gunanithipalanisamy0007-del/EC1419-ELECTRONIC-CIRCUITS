@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="ex 2222" src="https://github.com/user-attachments/assets/ffa7d27e-55b0-4e53-bffc-e32a27e2937e" />
 ## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
@@ -16,6 +17,9 @@
 ## Tabulation
 
 ## Graph
+
+
+<img width="1600" height="900" alt="ex 2222" src="https://github.com/user-attachments/assets/decd9042-a1b0-49ba-b5aa-cd0ce7c8944d" />
 
 
 Practical frequency of Oscillation =
