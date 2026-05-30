@@ -7,6 +7,8 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
+<img width="1600" height="719" alt="rps" src="https://github.com/user-attachments/assets/d9fb8003-4c17-472e-8b94-3601dad1efa3" />
+
 
 ## Graph
 
