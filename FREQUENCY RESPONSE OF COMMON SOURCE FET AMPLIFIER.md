@@ -4,11 +4,14 @@
 <img width="865" height="553" alt="image" src="https://github.com/user-attachments/assets/b73a0362-39e9-47e4-9650-dfcee3c5f689" />
 <img width="842" height="511" alt="image" src="https://github.com/user-attachments/assets/7b291257-af6c-47ce-b939-3631ea52bbf4" />
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
-<img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
 
 # Tabulation with readings
+<img width="1395" height="1600" alt="image" src="https://github.com/user-attachments/assets/d560c6fd-eb91-40e1-9624-b7977ad0f278" />
+
 
 ## Semilog plotted Graph
+<img width="1351" height="916" alt="image" src="https://github.com/user-attachments/assets/7ea04e0f-16d9-45d9-aec0-9565cadb2645" />
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
