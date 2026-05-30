@@ -15,4 +15,5 @@
 
 ![WhatsApp Image 2025-11-21 at 23 45 17_23afb58f](https://github.com/user-attachments/assets/83562a7e-d346-4f77-ac8e-f0332fa49a84)
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9e880c72-5adc-40bb-a35f-fd2ef2280ee8" />
+
